@@ -91,7 +91,7 @@ git clone https://github.com/joaomendes27/webapi-funcionarios.git
 ### Credenciais:
 
 - **Usuário**: joao
-- **Senha**: 1234
+- **Senha**: senhateste
 
 🔐 Em produção, é recomendada a utilização de **hashing de senhas** (como BCrypt) e banco de dados para autenticação real.
 
