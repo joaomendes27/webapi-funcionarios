@@ -21,11 +21,11 @@ namespace PrimeiraAPI.Infraestrutura.Repositories
                 {
                     Id = b.Id,
                     NomeFuncionario = b.Nome,
-                    Cargo = b.Cargo
+                    Cargo = b.Cargo,
+                    Idade = b.Idade  
                 })
                 .ToList();
         }
-
         public Funcionario? Get(int id)
         {
             return _context.Funcionarios.Find(id);

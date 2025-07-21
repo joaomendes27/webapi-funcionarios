@@ -702,3 +702,4 @@ C:\Users\MOSTEN\Desktop\Cursos\CSharp-NET\PrimeiraAPI\PrimeiraAPI\obj\Debug\net8
 C:\Users\MOSTEN\Desktop\Cursos\CSharp-NET\PrimeiraAPI\PrimeiraAPI\obj\Debug\net8.0\PrimeiraAPI.pdb
 C:\Users\MOSTEN\Desktop\Cursos\CSharp-NET\PrimeiraAPI\PrimeiraAPI\obj\Debug\net8.0\PrimeiraAPI.genruntimeconfig.cache
 C:\Users\MOSTEN\Desktop\Cursos\CSharp-NET\PrimeiraAPI\PrimeiraAPI\obj\Debug\net8.0\ref\PrimeiraAPI.dll
+C:\Users\MOSTEN\Desktop\Cursos\CSharp-NET\PrimeiraAPI\PrimeiraAPI\obj\Debug\net8.0\PrimeiraAPI.sourcelink.json

@@ -39,12 +39,14 @@ namespace PrimeiraAPI.Controllers.v1
         }
 
         [HttpGet]
+        [HttpGet]
         public IActionResult GetAll(int pageNumber, int pageQuantity)
         {
             var funcionarios = _funcionarioRepository.Get(pageNumber, pageQuantity);
-            return Ok(funcionarios);
-           
+            var funcionariosDTO = _mapper.Map<List<FuncionarioDTO>>(funcionarios);
+            return Ok(funcionariosDTO);
         }
+
 
         [HttpGet("{id}")]
         public IActionResult Search(int id)

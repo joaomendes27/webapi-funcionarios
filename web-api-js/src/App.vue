@@ -4,8 +4,6 @@
     <div class="login-header flex row col-12 q-my-md justify-center">
       <img alt="Vue logo" src="./assets/Image.png" style="width: 300px" />
     </div>
-
-    <!-- Login -->
     <div v-if="!isAuthenticated" class="row col-12 justify-center">
       <form @submit.prevent="authenticate" class="row">
         <div class="col-12 q-mt-md">
@@ -22,16 +20,12 @@
         </div>
       </form>
     </div>
-
-    <!-- Menu pós-login -->
     <div v-else class="column items-center q-mt-xl">
       <h6 class="q-mb-md" style="margin-top: -5%">Bem-vindo! Escolha uma opção:</h6>
       <q-btn class="q-my-sm" color="primary" label="Cadastrar Funcionário" @click="showCadastro = true" />
       <q-btn class="q-my-sm" color="secondary" label="Listar Funcionários" @click="listarFuncionarios" />
       <q-btn class="q-my-md" color="negative" label="Logout" @click="logout" />
     </div>
-
-    <!-- Formulário de cadastro -->
     <div v-if="showCadastro" class="column items-center">
       <h5>Cadastrar Funcionário</h5>
       <q-form @submit.prevent="cadastrarFuncionario" class="q-gutter-md">
@@ -41,8 +35,6 @@
         <q-btn label="Cadastrar" type="submit" color="primary" class="q-mt-md" />
       </q-form>
     </div>
-
-    <!-- Listagem -->
     <div v-if="funcionarios.length > 0" class="column items-center q-mt-xl">
       <h5>Lista de Funcionários</h5>
       <q-table :rows="funcionarios" :columns="columns" row-key="id" />
@@ -55,7 +47,6 @@ import { ref, onMounted } from "vue";
 import LoginService from "@/services/LoginService";
 import http from "@/http-common";
 
-// Estado
 let loading = ref(false);
 let data = ref({ username: "", password: "" });
 let isAuthenticated = ref(false);
@@ -65,13 +56,12 @@ let funcionario = ref({ nome: "", idade: "", cargo: "" });
 
 let columns = ref([
   { name: "nomeFuncionario", label: "Nome", align: "left", field: "nomeFuncionario" },
-  { name: "idade", label: "Idade", align: "center", field: "idade" }, // Se a idade não existir, pode ficar em branco
+  { name: "idade", label: "Idade", align: "center", field: "idade" },
   { name: "cargo", label: "Cargo", align: "center", field: "cargo" },
 ]);
 
 const _loginService = new LoginService();
 
-// Verifica token salvo
 onMounted(() => {
   const token = localStorage.getItem("token");
   if (token) {
@@ -80,7 +70,6 @@ onMounted(() => {
   }
 });
 
-// Login
 async function authenticate() {
   loading.value = true;
   try {
@@ -97,14 +86,12 @@ async function authenticate() {
   }
 }
 
-// Logout
 function logout() {
   localStorage.removeItem("token");
   isAuthenticated.value = false;
   http.defaults.headers.common["Authorization"] = null;
 }
 
-// ✅ Cadastro via multipart/form-data
 async function cadastrarFuncionario() {
   try {
     const formData = new FormData();
@@ -128,7 +115,6 @@ async function cadastrarFuncionario() {
   }
 }
 
-// Listagem
 async function listarFuncionarios() {
   try {
     const response = await http.get("/api/v1/employee", {
@@ -140,16 +126,15 @@ async function listarFuncionarios() {
         pageQuantity: 100,
       },
     });
+    console.log("Dados recebidos da API:", response.data);
 
-    // Agora, mapeamos os dados de acordo com o formato da resposta
     funcionarios.value = response.data.map((funcionario) => ({
       id: funcionario.id,
       nomeFuncionario: funcionario.nomeFuncionario,
       cargo: funcionario.cargo,
-      idade: "", // Não temos a idade, então pode ser deixado em branco ou calculado de outra forma
+      idade: funcionario.idade,
     }));
 
-    // Verificar no console para garantir que os dados estejam corretos
     console.log("Funcionários carregados:", funcionarios.value);
   } catch (error) {
     console.error("Erro ao listar funcionários:", error);

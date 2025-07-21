@@ -5,7 +5,6 @@ using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Prime.Application.Swagger;
-using PrimeiraAPI.Application.Mapping;
 using PrimeiraAPI.Domain.Models.FuncionarioAggregate;
 using PrimeiraAPI.Infraestrutura.Repositories;
 using Swashbuckle.AspNetCore.SwaggerGen;
