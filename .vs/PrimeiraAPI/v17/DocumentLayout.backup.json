@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\controllers\\v1\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\v1\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\application\\viewmodel\\funcionarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\application\\viewmodel\\funcionarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\application\\mapping\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\application\\mapping\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\infraestrutura\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\infraestrutura\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\domain\\models\\funcionarioaggregate\\ifuncionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\controllers\\v1\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\v1\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\domain\\dtos\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\domain\\dtos\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\application\\mapping\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\application\\mapping\\domaintodtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\controllers\\v2\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\controllers\\v2\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\application\\viewmodel\\funcionarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|solutionrelative:primeiraapi\\application\\viewmodel\\funcionarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D646995-3595-41FB-A007-2FE34A72B193}|PrimeiraAPI\\PrimeiraAPI.csproj|c:\\users\\mosten\\desktop\\cursos\\csharp-net\\primeiraapi\\primeiraapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,24 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FuncionarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\Repositories\\FuncionarioRepository.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Infraestrutura\\Repositories\\FuncionarioRepository.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\Repositories\\FuncionarioRepository.cs*",
-              "RelativeToolTip": "PrimeiraAPI\\Infraestrutura\\Repositories\\FuncionarioRepository.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAlAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Infraestrutura\\Repositories\\FuncionarioRepository.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Infraestrutura\\Repositories\\FuncionarioRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T23:43:26.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "DomainToDTOMapping.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Application\\Mapping\\DomainToDTOMapping.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Application\\Mapping\\DomainToDTOMapping.cs",
@@ -95,11 +95,62 @@
               "RelativeToolTip": "PrimeiraAPI\\Application\\Mapping\\DomainToDTOMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T23:25:39.626Z"
+              "WhenOpened": "2025-07-21T23:25:39.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Program.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:16:50.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FuncionarioViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Application\\ViewModel\\FuncionarioViewModel.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Application\\ViewModel\\FuncionarioViewModel.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Application\\ViewModel\\FuncionarioViewModel.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Application\\ViewModel\\FuncionarioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:09:40.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\v1\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\v1\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\v1\\FuncionarioController.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Controllers\\v1\\FuncionarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:12:53.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FuncionarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Domain\\DTOs\\FuncionarioDTO.cs",
+              "RelativeDocumentMoniker": "PrimeiraAPI\\Domain\\DTOs\\FuncionarioDTO.cs",
+              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Domain\\DTOs\\FuncionarioDTO.cs",
+              "RelativeToolTip": "PrimeiraAPI\\Domain\\DTOs\\FuncionarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:10:38.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Domain\\Models\\FuncionarioAggregate\\Funcionario.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Domain\\Models\\FuncionarioAggregate\\Funcionario.cs",
@@ -112,43 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FuncionarioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Domain\\DTOs\\FuncionarioDTO.cs",
-              "RelativeDocumentMoniker": "PrimeiraAPI\\Domain\\DTOs\\FuncionarioDTO.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Domain\\DTOs\\FuncionarioDTO.cs",
-              "RelativeToolTip": "PrimeiraAPI\\Domain\\DTOs\\FuncionarioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T17:10:38.385Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Program.cs",
-              "RelativeDocumentMoniker": "PrimeiraAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Program.cs",
-              "RelativeToolTip": "PrimeiraAPI\\Program.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAgwIIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T03:16:50.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FuncionarioController.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\v1\\FuncionarioController.cs",
-              "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\v1\\FuncionarioController.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\v1\\FuncionarioController.cs",
-              "RelativeToolTip": "PrimeiraAPI\\Controllers\\v1\\FuncionarioController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T17:12:53.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "IFuncionarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Domain\\Models\\FuncionarioAggregate\\IFuncionarioRepository.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Domain\\Models\\FuncionarioAggregate\\IFuncionarioRepository.cs",
@@ -160,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "FuncionarioController.cs",
               "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Controllers\\v2\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "PrimeiraAPI\\Controllers\\v2\\FuncionarioController.cs",
@@ -169,18 +184,6 @@
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T17:15:55.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FuncionarioViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Application\\ViewModel\\FuncionarioViewModel.cs",
-              "RelativeDocumentMoniker": "PrimeiraAPI\\Application\\ViewModel\\FuncionarioViewModel.cs",
-              "ToolTip": "C:\\Users\\MOSTEN\\Desktop\\Cursos\\CSharp-NET\\PrimeiraAPI\\PrimeiraAPI\\Application\\ViewModel\\FuncionarioViewModel.cs",
-              "RelativeToolTip": "PrimeiraAPI\\Application\\ViewModel\\FuncionarioViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T17:09:40.691Z"
             },
             {
               "$type": "Document",
