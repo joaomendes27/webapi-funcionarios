@@ -29,13 +29,31 @@ Este projeto consiste em uma aplicação **full stack** para cadastro e listagem
 
 ## ⚙️ Como executar o projeto localmente
 
-### 1. Clone este repositório
+### 1. Instalar dependências (Quasar & Vue.js)
+
+Antes de rodar o projeto, certifique-se de que o Vue.js e o Quasar CLI estão instalados globalmente no seu sistema.
+
+- **Instalar o Vue.js**:
+
+    ```bash
+    npm install -g vue
+    ```
+
+- **Instalar o Quasar CLI**:
+
+    ```bash
+    npm install -g @quasar/cli
+    ```
+
+---
+
+### 2. Clone este repositório
 
 ```bash
 git clone https://github.com/joaomendes27/webapi-funcionarios.git
 ```
 
-## 2. Execute a API (.NET)
+## 3. Execute a API (.NET)
 
 1. Navegue até a pasta da API:
 
@@ -60,7 +78,7 @@ git clone https://github.com/joaomendes27/webapi-funcionarios.git
 
 ---
 
-## 3. Execute o Front-end (Vue.js)
+## 4. Execute o Front-end (Vue.js)
 
 1. **Certifique-se de que a API esteja rodando** antes de iniciar o front-end, pois ele depende dela para funcionar corretamente.
 
@@ -84,7 +102,7 @@ git clone https://github.com/joaomendes27/webapi-funcionarios.git
 
 ---
 
-## 4. Autenticação (Apenas para Fins Educacionais)
+## 5. Autenticação (Apenas para Fins Educacionais)
 
 ⚠️ Este projeto utiliza **autenticação básica** com um usuário fixo e senha em texto puro, apenas para fins de estudo.
 
